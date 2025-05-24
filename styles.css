@@ -7,7 +7,7 @@ body {
 }
 
 header {
-  background-image: url("images/StoreAnonym.jpg");
+  background-image: url("./StoreAnonym.jpg");
   background-position: center;
   padding: 20px;
   color: white;
